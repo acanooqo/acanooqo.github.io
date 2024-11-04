@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acanooqo.github.io/AtX/sitemap_index.txt
+Sitemap: https://acanooqo.github.io/DvS/sitemap_index.txt
+Sitemap: https://acanooqo.github.io/eql/sitemap_index.txt
+Sitemap: https://acanooqo.github.io/vRe/sitemap_index.txt
